@@ -15,7 +15,7 @@ data pre-processing is performed on the reflected time signals to
 render the dataset. Secondly, Quadratic Time-Frequency 
 representation (QTFR) of the reflected sound signal is generated 
 and features extraction is performed on it. Afterward, four 
-different Machine Learning classification models; namely, KNearest Neighbors, Random Forest, Logistic Regression, and 
+different Machine Learning classification models; namely, K Nearest Neighbors, Random Forest, Logistic Regression, and 
 Decision Trees are utilized for data training and prediction for 
 the realization of binary classifier or discriminator. Finally, the best performing classifier based on accuracy, that is RF classifier, is being saved for final implementation. 
 
